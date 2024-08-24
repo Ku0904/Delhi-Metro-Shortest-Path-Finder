@@ -6,7 +6,8 @@ The Delhi Metro Path Finder is a Python project designed to help users find the 
 <p align="center">
   <video src="https://www.youtube.com/watch?v=bkWRuGNOZus" width=400/>
 <p/>
-[![Delhi Metro Path Finder](https://img.youtube.com/vi/bkWRuGNOZus/0.jpg)]()
+
+[![Delhi Metro Path Finder](https://img.youtube.com/vi/bkWRuGNOZus/0.jpg)](https://www.youtube.com/watch?v=bkWRuGNOZus)
 
 ## Features
 Interactive GUI: Provides a graphical interface to select source and destination metro stations.
